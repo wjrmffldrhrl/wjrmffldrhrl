@@ -1,4 +1,4 @@
-![space](spaceMan.jpg)    
+![spaceWide](spaceWide.jpg)    
 
 ## 세상은 넓고 고수는 많다.  
 그러니까 **열심히** 하자.
