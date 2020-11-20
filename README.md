@@ -4,7 +4,7 @@
 그러니까 **열심히** 하자.
 <br> <br/> 
 
-![wjrmffldrhrl's github stats](https://github-readme-stats.vercel.app/api?username=wjrmffldrhrl&show_icons=true)  
+![wjrmffldrhrl's github stats](https://github-readme-stats.vercel.app/api?username=wjrmffldrhrl&show_icons=true&theme=dark)  
 
 
 Portfolio : [Notion](https://www.notion.so/fd24a04fb827425f933ad6621b242cba)  
