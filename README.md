@@ -1,9 +1,5 @@
 ![space](space.jpg)    
 
-## 세상은 넓고 고수는 많다.  
-그러니까 **열심히** 하자.
-<br> <br/> 
-
 ![wjrmffldrhrl's github stats](https://github-readme-stats.vercel.app/api?username=wjrmffldrhrl&show_icons=true&theme=dark)  
 
 
